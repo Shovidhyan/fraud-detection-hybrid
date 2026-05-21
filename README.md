@@ -184,17 +184,3 @@ New device login detected.
 - Final Security Action
 
 ---
-
-# Future Improvements
-
-- Real-Time Monitoring
-- Threat Intelligence Integration
-- SIEM Integration
-- Database Logging
-- Email/Slack Alerts
-- Authentication System
-- Cloud Deployment
-- Malware Detection
-- Phishing Detection
-
----
